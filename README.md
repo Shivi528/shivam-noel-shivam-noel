@@ -6,41 +6,25 @@
 
 <!-- Quick badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
-  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational"></a>
+  <a href="https://www.linkedin.com/in/shivam-noel-malhotra-450b531ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
+  <a href="mailto:malhotrashivam438@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational"></a>
   <img alt="Location" src="https://img.shields.io/badge/Location-Sydney%2C%20AU-success">
   <img alt="Focus" src="https://img.shields.io/badge/Focus-SOC%20Level%201%20%7C%20CTFs%20%7C%20Azure-blueviolet">
 </p>
-
 ---
+# 📚 Featured Projects
+- **Multi-Factor Authentication Simulation (Python)**  
+  Breach environment simulation, vulnerability identification, and secure workflow redesign.
+- **Login Monitoring (Python)**  
+  Behavioural analytics and anomaly detection using noise analysis and pattern recognition.
+- **SOC Incident Handling (LetsDefend)**  
+  End-to-end triage, documentation, and escalation in simulated SOC environment.
 
-### 🚀 What I’m working on
-- **SOC Level 1 (LetsDefend):** documenting incidents, queries, and lessons learned  
-- **OCCT (OS Compliance Check Tool):** Windows checks mapped to Common Criteria, PS scripts + web dashboard  
-- **CTFs:** weekly beginner-to-intermediate practice (notes + writeups)
-
-### 📚 Recent projects
-- **OCCT – Compliance & Detection** → `org/occt` (PS checks, API, dashboards)
-- **Blue Team Notes** → `SOC-Labs` (playbooks, detections, scripts)
-- **Forensics Mini-Labs** → `dfir-samples` (timeline, carving, email analysis)
-
-> Pinned repos below 👇 (or see the **Projects** tab)
-
-### 🧰 Tech I use
-- **Blue team:** Zeek, Suricata, Sigma, Sysmon, Elastic
-- **Scripting:** PowerShell, Python
-- **Cloud:** Azure fundamentals (IAM, Defender for Cloud)
-- **GRC:** ISO 27001 basics, risk registers, CC mapping
-
-### 📝 Writing
-- **Incident writeups**: phishing triage, web logs, Windows artefacts  
-- **CTF notes**: web, forensics, misc challenges  
-> All notes are in repo READMEs for quick scanning.
-
-### 🎯 2025 Goals
-- Finish **SOC Level 1** with detailed public notes  
-- Ship OCCT MVP (checks → JSON → API → dashboard)  
-- 10+ CTF writeups with reproducible steps
+### 🧰 Technical Skills
+- **Security Operations:** Incident detection & response, SIEM tools (Splunk, Elastic), MITRE ATT&CK mapping
+- **Networking & Forensics:** Wireshark, network traffic analysis, log parsing, artefact extraction
+- **Development:** Python, PowerShell, Bash, Web development basics
+- **Other Tools:** Unix OS, Command Line Interface, Git/GitHub
 
 ### 🤝 Open to
 - Grad roles/internships in **SOC/DFIR/GRC** (AU/HK/SG)
