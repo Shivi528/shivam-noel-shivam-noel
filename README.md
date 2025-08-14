@@ -39,21 +39,13 @@
 
 ---
 
-### 💼 Experience Snapshot
-- **Work Ventures** – IT support, system configuration, and endpoint maintenance  
-- **JB Hi-Fi** – Technical customer assistance & troubleshooting  
-- **Ereganto** – Retail sales & digital operations management  
-- **Qudos Bank Arena** – High-pressure operations & situational awareness
-
----
-
 ### 🎯 2025 Goals
-- Complete **SOC Level 1** with detailed public notes
-- Build and demo **OCCT** as a compliance & detection tool
-- Publish **10+ CTF writeups** with reproducible steps
-- Expand into **Azure cloud security** projects
+- Complete **SOC Level 1** LetsDefend
 
 ---
+
+## 🤝 Open to
+- Grad roles/internships in **SOC/DFIR/GRC** (AU/HK/SG)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" alt="stats" />
