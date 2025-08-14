@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Shivam 👋</h1>
 <p align="center">
-  Cybersecurity student in Sydney • SOC & DFIR • Blue-team labs, cloud security, and GRC
+  Cybersecurity student @ UTS • SOC & DFIR • Blue-team labs, cloud security, and GRC
 </p>
 
 <!-- Quick badges -->
